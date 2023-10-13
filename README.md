@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://metrics.lecoq.io/xiaolin-zi?template=classic&config.timezone=Asia%2FShanghai"> </div>
-https://metrics.lecoq.io/insights/xiaolin-zi
+
 <!--
 **xiaolin-zi/xiaolin-zi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
